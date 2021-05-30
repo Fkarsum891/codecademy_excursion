@@ -22,4 +22,5 @@ p{
 img{
   max-width: 100%;
   margin: 5% auto;
+  display:block;
 }
